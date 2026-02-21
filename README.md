@@ -5,16 +5,20 @@
 Este proyecto es una aplicación de consola desarrollada en JavaScript. Se ejecuta en el navegador y utiliza `prompt()` para solicitar datos al usuario, `alert()` para mostrar mensajes y `console.log()` para visualizar resultados en la consola.
 
 ### Funcionalidades principales
+
 - Solicita el nombre del usuario y valida:
   - Si el usuario cancela.
   - Si el usuario deja el campo vacío.
+
 - Calculadora con operaciones básicas:
   - Suma, resta, multiplicación y división.
   - Validación para evitar división por 0.
   - Permite repetir operaciones y guarda un historial.
+
 - Arreglos y ciclos:
   - Recorre un arreglo con `for` y `while`.
   - Filtra números “mayores que” o “menores que” un valor ingresado por el usuario.
+  
 - Objetos:
   - Crea un objeto `usuario` con propiedades y métodos.
   - Crea objetos `operación` y los guarda en un arreglo (historial).
